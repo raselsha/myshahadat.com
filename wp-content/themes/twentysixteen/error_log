@@ -1,0 +1,20 @@
+[06-Jan-2019 17:53:15 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jan-2019 17:53:52 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 00:32:33 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 04:33:32 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[09-Jan-2020 18:49:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[01-Mar-2020 06:54:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[01-Mar-2020 22:58:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[30-Apr-2020 03:51:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/twentysixteen/404.php on line 10

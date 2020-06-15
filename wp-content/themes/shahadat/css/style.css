@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Galada');
+@font-face {
+  font-family: 'Raleway';
+  src:url('../fonts/Raleway-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  src:url('../fonts/Ubuntu-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Reem Kufi';
+  src:url('../fonts/ReemKufi-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Katibeh';
+  src:url('../fonts/Katibeh-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bangla';
+  src: url('../fonts/SolaimanLipiNormal.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/SolaimanLipiNormal.woff') format('woff'), 
+  url('../fonts/SolaimanLipiNormal.ttf')  format('truetype'), 
+  url('fonts/SolaimanLipiNormal.svg#SolaimanLipiNormal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+font-size: 17px;
+line-height: 1.8;
+color: #2c3e50;
+margin: 55px 0px;
+}
+body,p,.content{
+  font-family:"Raleway",'Katibeh','bangla',Helvetica,Arial,sans-serif;
+}
+h1,h2,h3,h4,h5,h6,.navbar-brand,strong{
+  font-family:"Ubuntu",'Reem Kufi','bangla',Helvetica,Arial,sans-serif;
+}
+.content{
+  margin:3% 0%;
+}
+
+.border{
+  padding-top:13%; 
+  border: 10px solid transparent;
+  padding: 5% 5%;
+  border-image-source: url(../images/border.svg);
+  border-image-width: 16px;
+  border-image-slice: 40;
+  border-image-repeat: repeat;
+  background:/*url(../images/bg.jpg)*/ #fff; 
+}
+/***********************Language bar****************************/
+.language_title{
+  display: inline-block;
+  padding-right:2px
+}
+
+.language{margin:0px 0px; }
+.language select{font-size: 12px;}
+.language ul{display: inline-block;margin:0; padding: 0; list-style: none;}
+.language ul li{display: inline-block;}
+.language ul li a{}
+
+
+/******************************navbar********************/
+
+.navbar-default {
+    background-color: #26A69A;
+}
+.navbar-default .navbar-nav > li a:hover,.navbar-default .navbar-nav > li a:focus,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+  background-color: #fff176;
+  color: #32507F;
+}
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus {
+    color: #f7f7f7;
+}
+/******************************content********************/

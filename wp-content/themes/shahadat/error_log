@@ -1,0 +1,12 @@
+[05-Jan-2018 21:59:49 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
+[05-Jan-2018 21:59:49 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
+[15-Nov-2019 23:32:19 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
+[17-Nov-2019 19:15:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
+[17-Apr-2020 00:00:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
+[24-Apr-2020 19:11:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/wp-content/themes/shahadat/404.php on line 1
